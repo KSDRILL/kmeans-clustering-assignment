@@ -1,0 +1,48 @@
+
+============================================================
+K-MEANS CLUSTERING ANALYSIS (k=3)
+============================================================
+
+Total Nodes: 600
+Number of Clusters: 3
+
+------------------------------------------------------------
+CLUSTER SUMMARY
+------------------------------------------------------------
+
+Cluster 0:
+  Nodes: 265
+  Avg Energy: 52.5
+  Min Energy: 10
+  Max Energy: 100
+  Energy Std: 27.1
+
+Cluster 1:
+  Nodes: 165
+  Avg Energy: 50.9
+  Min Energy: 10
+  Max Energy: 100
+  Energy Std: 27.5
+
+Cluster 2:
+  Nodes: 170
+  Avg Energy: 52.9
+  Min Energy: 11
+  Max Energy: 100
+  Energy Std: 25.6
+
+------------------------------------------------------------
+CRITICAL NODES (Lowest Energy in Each Cluster)
+------------------------------------------------------------
+Cluster 0: Node N330 | Energy: 10 | Position: (64.9, 52.0)
+Cluster 1: Node N398 | Energy: 10 | Position: (68.2, 23.1)
+Cluster 2: Node N53 | Energy: 11 | Position: (28.8, 45.3)
+
+------------------------------------------------------------
+GLOBAL STATISTICS
+------------------------------------------------------------
+Overall Avg Energy: 52.2
+Overall Min Energy: 10
+Overall Max Energy: 100
+Lowest Energy Node: N330 (Energy: 10)
+Highest Energy Node: N18 (Energy: 100)

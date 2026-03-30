@@ -1,0 +1,80 @@
+
+============================================================
+K-MEANS CLUSTERING ANALYSIS (k=7)
+============================================================
+
+Total Nodes: 600
+Number of Clusters: 7
+
+------------------------------------------------------------
+CLUSTER SUMMARY
+------------------------------------------------------------
+
+Cluster 0:
+  Nodes: 79
+  Avg Energy: 51.0
+  Min Energy: 11
+  Max Energy: 100
+  Energy Std: 28.4
+
+Cluster 1:
+  Nodes: 90
+  Avg Energy: 51.1
+  Min Energy: 10
+  Max Energy: 100
+  Energy Std: 27.7
+
+Cluster 2:
+  Nodes: 85
+  Avg Energy: 52.3
+  Min Energy: 11
+  Max Energy: 100
+  Energy Std: 25.2
+
+Cluster 3:
+  Nodes: 75
+  Avg Energy: 50.6
+  Min Energy: 10
+  Max Energy: 100
+  Energy Std: 27.5
+
+Cluster 4:
+  Nodes: 85
+  Avg Energy: 53.5
+  Min Energy: 12
+  Max Energy: 100
+  Energy Std: 26.1
+
+Cluster 5:
+  Nodes: 90
+  Avg Energy: 53.3
+  Min Energy: 10
+  Max Energy: 100
+  Energy Std: 26.6
+
+Cluster 6:
+  Nodes: 96
+  Avg Energy: 53.1
+  Min Energy: 11
+  Max Energy: 100
+  Energy Std: 26.6
+
+------------------------------------------------------------
+CRITICAL NODES (Lowest Energy in Each Cluster)
+------------------------------------------------------------
+Cluster 0: Node N196 | Energy: 11 | Position: (50.9, 75.3)
+Cluster 1: Node N482 | Energy: 10 | Position: (47.6, 17.3)
+Cluster 2: Node N53 | Energy: 11 | Position: (28.8, 45.3)
+Cluster 3: Node N398 | Energy: 10 | Position: (68.2, 23.1)
+Cluster 4: Node N541 | Energy: 12 | Position: (19.8, 27.1)
+Cluster 5: Node N330 | Energy: 10 | Position: (64.9, 52.0)
+Cluster 6: Node N100 | Energy: 11 | Position: (37.0, 67.2)
+
+------------------------------------------------------------
+GLOBAL STATISTICS
+------------------------------------------------------------
+Overall Avg Energy: 52.2
+Overall Min Energy: 10
+Overall Max Energy: 100
+Lowest Energy Node: N330 (Energy: 10)
+Highest Energy Node: N18 (Energy: 100)
